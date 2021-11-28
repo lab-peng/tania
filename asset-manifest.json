@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tania/static/css/main.63f08c64.chunk.css",
+    "main.js": "/tania/static/js/main.bf97023c.chunk.js",
+    "main.js.map": "/tania/static/js/main.bf97023c.chunk.js.map",
+    "runtime-main.js": "/tania/static/js/runtime-main.29f7dbae.js",
+    "runtime-main.js.map": "/tania/static/js/runtime-main.29f7dbae.js.map",
+    "static/js/2.58ca5cc2.chunk.js": "/tania/static/js/2.58ca5cc2.chunk.js",
+    "static/js/2.58ca5cc2.chunk.js.map": "/tania/static/js/2.58ca5cc2.chunk.js.map",
+    "static/js/3.49e7af26.chunk.js": "/tania/static/js/3.49e7af26.chunk.js",
+    "static/js/3.49e7af26.chunk.js.map": "/tania/static/js/3.49e7af26.chunk.js.map",
+    "index.html": "/tania/index.html",
+    "static/css/main.63f08c64.chunk.css.map": "/tania/static/css/main.63f08c64.chunk.css.map",
+    "static/js/2.58ca5cc2.chunk.js.LICENSE.txt": "/tania/static/js/2.58ca5cc2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29f7dbae.js",
+    "static/js/2.58ca5cc2.chunk.js",
+    "static/css/main.63f08c64.chunk.css",
+    "static/js/main.bf97023c.chunk.js"
+  ]
+}
